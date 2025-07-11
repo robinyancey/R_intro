@@ -1,5 +1,6 @@
 # R_intro
-
+## Copyright Robin Yancey 6-2025
+verified instructors may email me for solutions to assignments and more lecture videos. :)
 
 Course Outline
 Weeks 1, 2: Intro to R/RStudio, Data Structures, Statistics/Probability
